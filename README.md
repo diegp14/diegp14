@@ -1,5 +1,11 @@
-### Hi there 👋
+###  Hola, soy Diego Guzmán
 
+## 🚀 Sobre Mí
+soy desarrollador en Java, actualmente me encuentro estudiando nuevas tecnologias en el ecosistema Java como Spring Boot, tengo experiencia desarrollando aplicanciones de escritorio en Java,
+manejo de la tecnología Java Server Pages, actualmente interesado en el desarrollo Backend con Java.
+
+- 🌍 Vivo en Guadalajara, México.
+- 💼 Trabajo en una empresa de desarrollo llamada SICAR.
 <!--
 **diegp14/diegp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
